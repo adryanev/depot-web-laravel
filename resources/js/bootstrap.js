@@ -29,6 +29,8 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 //     forceTLS: true
 // });
 
+//popper
+window.Popper = require('popper.js').default;
 // jQuery
 window.$ = window.jQuery =  require('jquery')
 
