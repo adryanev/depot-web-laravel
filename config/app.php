@@ -2,6 +2,10 @@
 
 return [
 
+    'app_scope'=>'front',
+
+    'admin_route'=>'admin',
+
     /*
     |--------------------------------------------------------------------------
     | Application Name
